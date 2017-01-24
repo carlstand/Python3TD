@@ -1,0 +1,8 @@
+
+*.pyc
+
+*.mp3
+
+.idea/
+
+.DS_Store
